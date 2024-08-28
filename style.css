@@ -78,7 +78,7 @@ main{
 }
 
 .left-section{
-    background-image: url(../assets/stethoscope.png);
+    background-image: url(./assets/stethoscope.png);
     z-index: 3;
     background-size: 370px;
     background-position: bottom;
